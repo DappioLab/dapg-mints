@@ -1,0 +1,20 @@
+{
+  "name": "Dappie Gang",
+  "symbol": "DAPG",
+  "description": "Dappie Gang is a collection of 6,666 Rabbit NFTs — unique rabbit GameFi characters with DeFi utilities in Solana blockchain. Dappie Gang is your key to access members-only benefits, the first of which is access to DAPPIO, Solana Wonderland. Exclusive benefits and perks can be unlocked by the community through roadmap activation.",
+  "external_url": "https://gang.dappio.xyz",
+  "collection": {
+    "name": "Dappie Gang",
+    "family": "DAPG"
+  },
+  "image": "https://arweave.net/ewhG21Q45JubECUpKrQeqGQsLbRn2OtEvjBY9bGNJOI",
+  "properties": {
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://arweave.net/ewhG21Q45JubECUpKrQeqGQsLbRn2OtEvjBY9bGNJOI"
+      }
+    ],
+    "category": "image"
+  }
+}
