@@ -7,12 +7,12 @@
     "name": "Dappie Gang",
     "family": "DAPG"
   },
-  "image": "https://arweave.net/ewhG21Q45JubECUpKrQeqGQsLbRn2OtEvjBY9bGNJOI",
+  "image": "https://raw.githubusercontent.com/DappioWonderland/dapg-mints/main/icon.jpg",
   "properties": {
     "files": [
       {
         "type": "image/png",
-        "uri": "https://arweave.net/ewhG21Q45JubECUpKrQeqGQsLbRn2OtEvjBY9bGNJOI"
+        "uri": "https://raw.githubusercontent.com/DappioWonderland/dapg-mints/main/icon.jpg"
       }
     ],
     "category": "image"
