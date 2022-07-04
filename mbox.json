@@ -1,0 +1,16 @@
+{
+  "name": "Dappio Mystery Box",
+  "symbol": "MBOX",
+  "description": "Dappio Mystery Box is an NFT reward collection airdropped to Dappiegan NFT stakers. Unboxing event will occur periododically for box owners to claim the rewards revealed. One box is eligible to claim the reward ONE TIME within the designated claim period.",
+  "external_url": "https://gang.dappio.xyz",
+  "image": "https://raw.githubusercontent.com/DappioWonderland/dapg-mints/main/mbox.jpg",
+  "properties": {
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://raw.githubusercontent.com/DappioWonderland/dapg-mints/main/mbox.jpg"
+      }
+    ],
+    "category": "image"
+  }
+}
